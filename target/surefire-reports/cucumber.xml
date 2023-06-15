@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="5.229825">
+    <testcase classname="Authentification" name="Authentification réussie" time="5.229825">
+        <system-out>
+            <![CDATA[Given j ouvre l application MyUnisoft.......................................passed
+When je saisis une adresse mail "user.test.cabinet+myunisoft_candidat@myunisoft.fr".passed
+And je saisis un mot de passe "G00D_LuCk"...................................passed
+And je coche la premiere case des conditions générales......................passed
+And Je coche la deuxiéme case j'accepte.....................................passed
+And je clique sur Se connecter..............................................passed
+Then Dashboard est affiché..................................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
